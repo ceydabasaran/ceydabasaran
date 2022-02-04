@@ -2,7 +2,7 @@
 <br />
 👀 I'm currently working as a business analyst.
 <br />
-💻 I’m currently learning python and data science.
+💻 I'm currently learning python and my goal is to improve myself in data science.
 <br />
 👯 My hobbies: ballet dancing 🩰,latin dancing 💃🏼, camping 🏕️, trekking 🏃🏼‍♀️, kick boxing 🥊 , playing piano 🎹 and watching movies 
 <br />
