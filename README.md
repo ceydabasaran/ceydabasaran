@@ -4,7 +4,7 @@
 <br />
 💻 I’m currently learning python and data science.
 <br />
-👯 My hobbies: ballet dancing 🩰, latin dancing 💃🏼, camping 🏕️, trekking 🏃🏼‍♀️, kick boxing 🥊 , playing piano 🎹 and watching movies 🖥️. 
+👯 My hobbies:ballet dancing 🩰,latin dancing 💃🏼, camping 🏕️, trekking 🏃🏼‍♀️, kick boxing 🥊 , playing piano 🎹 and watching movies 🖥️. 
 <br />
 🐶 I have a dog, it's name is Cookie
 
