@@ -4,7 +4,7 @@
 <br />
 🔭 I’m currently learning python and data science.
 <br />
-👯 Fun fact: I love ballet dancing, camping and trekking, kick boxing, playing piano and watching movies. 
+👯 My hobbies: ballet dancing, camping, trekking, kick boxing, playing piano and watching movies. 
 
 👨‍🎓 Istanbul Technical University, Mechanical Engineering
 
