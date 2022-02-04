@@ -2,11 +2,14 @@
 <br />
 👀 I'm currently working as a business analyst.
 <br />
-🔭 I’m currently learning python and data science.
+💻 I’m currently learning python and data science.
 <br />
-👯 My hobbies: ballet dancing, camping, trekking, kick boxing, playing piano and watching movies. 
+👯 My hobbies: ballet dancing 🩰, latin dancing 💃🏼, camping 🏕️, trekking 🏃🏼‍♀️, kick boxing 🥊 , playing piano 🎹 and watching movies 🖥️. 
+<br />
+🐶 I have a dog, it's name is Cookie
 
-👨‍🎓 Istanbul Technical University, Mechanical Engineering
+🎓 Istanbul Technical University, Mechanical Engineering
+
 
 📩 Connect with me:
 
